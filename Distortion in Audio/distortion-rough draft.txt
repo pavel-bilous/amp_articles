@@ -18,7 +18,7 @@ Therefore, when evaluating amplifiers, it's essential to consider distortion cha
 
 The threshold of audibility for Total Harmonic Distortion (THD) can vary among individuals, and factors like the type of distortion, listening conditions, and personal sensitivity play a role. However, a common guideline is that THD levels below 1% are generally considered to be inaudible for most listeners, especially in real-world listening situations.
 
-In high-quality audio systems and professional settings, efforts are made to keep THD well below 1% to ensure that any distortion introduced is imperceptible to the average listener. Many well-designed audio components aim for THD levels much lower than 1%, often reaching values well below 0.01% or even 0.0001%.
+In high-quality audio systems and professional settings, efforts are made to keep THD well below 1% to ensure that any distortion introduced is imperceptible to the average listener. Many well-designed audio components aim for THD levels much lower than 1%, often reaching values below 0.01% or even 0.0001%.
 
 It's important to note that while THD is a significant factor, other types of distortion, such as intermodulation distortion (IMD) and transient intermodulation distortion (TIM), also contribute to the overall perception of audio quality.
 
