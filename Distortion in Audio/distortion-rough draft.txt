@@ -50,7 +50,7 @@ While open-loop gain itself doesn't directly reduce distortion, it sets the stag
 
 Negative feedback is commonly used in audio amplifiers. This involves feeding back a portion of the output signal to the inverting input of the amplifier. The feedback signal is then compared to the original input, and any discrepancies are used to adjust the output. 
 
-The extent to which a given circuit can adjust the output signal is proportional to the open loop gain available in that circuit at a given frequency. Typically open loop gain curve is defined by internal compensation inside the amplifier. And in most cases such curve falls at a rate of 20dB per octave.
+The effectiveness of a given circuit in adjusting the output signal is directly proportional to the open-loop gain present in that circuit at a specific frequency. Typically, the open-loop gain curve is defined by internal compensation mechanisms inside the amplifier. In most cases, such a curve decreases at a rate of 20 dB per octave.
 
 When the open-loop gain is low, negative feedback becomes less effective in stabilizing and linearizing the amplifier's response. Negative feedback relies on a high open-loop gain to reduce distortion and improve linearity. If the open-loop gain is low, the feedback may not be sufficient to counteract the inherent nonlinearities and variations in the amplifier's characteristics, leading to reduced effectiveness in correcting errors and maintaining stability. In such cases, the amplifier may exhibit higher distortion and poorer performance compared to a system with a higher open-loop gain where negative feedback can have a more pronounced corrective effect.
 
