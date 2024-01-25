@@ -20,11 +20,11 @@ The threshold of audibility for Total Harmonic Distortion (THD) can vary among i
 
 In high-quality audio systems and professional settings, efforts are made to keep THD well below 1% to ensure that any distortion introduced is imperceptible to the average listener. Many well-designed audio components aim for THD levels much lower than 1%, often reaching values below 0.01% or even 0.0001%.
 
-It's important to note that while THD is a significant factor, other types of distortion, such as intermodulation distortion (IMD) and transient intermodulation distortion (TIM), also contribute to the overall perception of audio quality.
-
 Total Harmonic Distortion (THD) is a measure of the harmonic components present in a signal compared to the fundamental frequency. In the context of audio systems, THD quantifies the extent to which the original audio signal is distorted or altered.
 
 THD is expressed as a percentage and is calculated by taking the root mean square (RMS) of all harmonic components and dividing it by the RMS of the fundamental frequency. 
+
+It's important to note that while THD is a significant factor, other types of distortion, such as intermodulation distortion (IMD) and transient intermodulation distortion (TIM), also contribute to the overall perception of audio quality.
 
 Intermodulation Distortion (IMD) is a type of distortion that occurs in audio systems when two or more different frequencies interact, producing additional frequencies that were not present in the original signal. This interaction creates sum and difference frequencies, which can introduce unwanted harmonics and alter the overall sound quality.
 
