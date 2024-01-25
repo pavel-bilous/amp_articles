@@ -46,9 +46,13 @@ For example, open loop gain of the LM4562 at 1kHz is 95dB. The decibel (dB) scal
 
 While open-loop gain itself doesn't directly reduce distortion, it sets the stage for the application of feedback, which is a key technique used to mitigate distortion in audio amplifiers.
 
-Negative feedback is commonly used in audio amplifiers. This involves feeding back a portion of the output signal to the inverting input of the amplifier. The feedback signal is then compared to the original input, and any discrepancies are used to adjust the output. The extent to which a given circuit can adjust the output signal is proportional to the open loop gain available in that circuit at a given frequency.
+Negative feedback is commonly used in audio amplifiers. This involves feeding back a portion of the output signal to the inverting input of the amplifier. The feedback signal is then compared to the original input, and any discrepancies are used to adjust the output. 
 
-By applying feedback, the overall distortion of the amplifier is significantly reduced. The closed-loop amplifier can maintain low distortion levels even when the open-loop gain might be inherently more prone to distortion.
+The extent to which a given circuit can adjust the output signal is proportional to the open loop gain available in that circuit at a given frequency. Typically open loop gain curve is defined by internal compensation inside the amplifier. An in most cases such curve falls at a rate of 20dB per octave.
+
+When the open-loop gain is low, negative feedback becomes less effective in stabilizing and linearizing the amplifier's response. Negative feedback relies on a high open-loop gain to reduce distortion and improve linearity. If the open-loop gain is low, the feedback may not be sufficient to counteract the inherent nonlinearities and variations in the amplifier's characteristics, leading to reduced effectiveness in correcting errors and maintaining stability. In such cases, the amplifier may exhibit higher distortion and poorer performance compared to a system with a higher open-loop gain where negative feedback can have a more pronounced corrective effect.
+
+
 
 
 When it comes to sound quality, the choice between an Integrated Circuit (IC) amplifier and a discrete design can depend on various factors. 
