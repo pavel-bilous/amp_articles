@@ -78,8 +78,6 @@ A balanced (differential) op-amp configuration is often superior to a single-end
 
 On the other hand, a non-inverted (single-ended) configuration amplifies a single input signal relative to a reference point. While it might be simpler, it's generally more susceptible to common-mode noise.
 
-In summary, the balanced configuration is preferred when you need better rejection of common-mode noise or interference.
-
 Input bias currents 
 
 Input bias current in op-amps refers to the small current that flows into the input terminals of the amplifier. It occurs due to mismatched transistor characteristics in the op-amp's input stage. This current is typically in the range of nanoamperes to microamperes. Input bias current can lead to offset voltages at the output and may affect the accuracy of the amplified signal in certain applications.
