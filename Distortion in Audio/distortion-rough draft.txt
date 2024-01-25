@@ -22,8 +22,6 @@ In high-quality audio systems and professional settings, efforts are made to kee
 
 It's important to note that while THD is a significant factor, other types of distortion, such as intermodulation distortion (IMD) and transient intermodulation distortion (TIM), also contribute to the overall perception of audio quality.
 
-Ultimately, the goal is to achieve distortion levels that are sufficiently low to preserve the integrity of the original audio signal, providing a clean and accurate listening experience.
-
 Total Harmonic Distortion (THD) is a measure of the harmonic components present in a signal compared to the fundamental frequency. In the context of audio systems, THD quantifies the extent to which the original audio signal is distorted or altered.
 
 THD is expressed as a percentage and is calculated by taking the root mean square (RMS) of all harmonic components and dividing it by the RMS of the fundamental frequency. 
