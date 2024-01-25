@@ -74,12 +74,6 @@ In the non-inverted configuration, the input signal connects to the non-invertin
 
 Contrasting with the non-inverted setup, the inverted configuration has the input signal connected to the inverting (-) terminal, with feedback applied to the non-inverting (+) terminal. This results in an inverted output relative to the input. Inverted configurations find use in scenarios where signal phase inversion is acceptable or even beneficial. Applications like inverting amplifiers, where phase reversal is required, make the inverted configuration a valuable tool in electronic design.
 
-The balanced configuration, often realized as a differential amplifier, utilizes two inputs, and the output represents the difference between these inputs. This configuration is effective in rejecting common-mode signals, which are signals common to both inputs. It finds applications in scenarios where the goal is to amplify the difference between two signals while rejecting noise or interference common to both. Differential amplifiers are crucial in areas like instrumentation amplification and communication systems.
-
-In conclusion, the versatility of chip-amp configurations allows engineers to tailor their amplification circuits to specific needs. The non-inverted configuration preserves signal phase, making it suitable for applications requiring positive gain with phase fidelity. The inverted configuration, with its phase inversion capability, is valuable in scenarios where signal inversion is necessary. The balanced configuration, with its ability to reject common-mode signals, enhances performance in applications where noise rejection is critical. A nuanced understanding of these configurations empowers engineers to design circuits that precisely meet the demands of diverse electronic applications.
-
-Why balanced configuration is superior for audio applications.
-
 A balanced (differential) op-amp configuration is often superior to a single-ended (non-inverted) configuration in terms of common-mode noise rejection. In a balanced configuration, the op-amp amplifies the difference between two input signals (differential input), while common-mode signals (signals present in phase at both inputs) tend to be rejected.
 
 On the other hand, a non-inverted (single-ended) configuration amplifies a single input signal relative to a reference point. While it might be simpler, it's generally more susceptible to common-mode noise.
