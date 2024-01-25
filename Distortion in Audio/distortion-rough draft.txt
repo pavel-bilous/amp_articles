@@ -58,17 +58,15 @@ When the open-loop gain is low, negative feedback becomes less effective in stab
 
 We reviewed sound amplification from a subjective perspective and became familiar with a few concepts that play a crucial role in delivering a properly defined user experience while listening to music. Now, we can delve into the market of electronic components and concentrate on finding practical solutions.
 
+There are two types of amplifier designs available in the market: discrete amplifiers and integrated chip amplifiers or chip-amps.
+
+A discrete amplifier refers to an amplifier circuit that is constructed using individual electronic components, such as transistors and resistors, rather than integrated circuits (ICs) or other pre-assembled modules. In a discrete amplifier, each component is chosen, connected, and assembled separately, providing a more customized and often higher level of control over the amplifier's design. 
+
+An IC (Integrated Circuit) amplifier is an amplifier circuit that is built using integrated circuits, which are compact semiconductor devices containing multiple interconnected electronic components. IC amplifiers are pre-assembled in a single chip, combining transistors, resistors, capacitors, and other components on a small semiconductor substrate. 
+
 When it comes to sound quality, the choice between an Integrated Circuit (IC) amplifier and a discrete design can depend on various factors. 
 
-Here are the benefits of using IC based amplifier:
-
-1. **Consistency:** IC amplifiers, being mass-produced, offer a higher level of consistency in performance. This can contribute to a more uniform and predictable sound quality across different units.
-
-2. **Precision Matching:** Components within IC amplifiers are precisely matched during manufacturing, reducing variations that might affect sound quality. This can result in better channel balance and stereo imaging.
-
-3. **Low Noise:** IC amplifiers are designed with low noise in mind, providing a clean signal path. This can be advantageous for applications where minimizing background noise is critical for high-quality audio.
-
-4. **Integrated Compensation:** IC amplifiers often integrate compensation circuits to address specific challenges, such as thermal drift or frequency response irregularities. This integration can enhance overall sound quality.
+IC amplifiers, being mass-produced, offer a higher level of consistency in performance. This can contribute to a more uniform and predictable sound quality across different units. Components within IC amplifiers are precisely matched during manufacturing, reducing variations that might affect sound quality. This can result in better channel balance and stereo imaging. IC amplifiers are designed with low noise in mind, providing a clean signal path. This can be advantageous for applications where minimizing background noise is critical for high-quality audio. IC amplifiers often integrate compensation circuits to address specific challenges, such as thermal drift or frequency response irregularities. This integration can enhance overall sound quality.
 
 Because IC amplifiers are built similarly to OPAMPs, they can be used in following three fundamental configurations that are the non-inverted, inverted, and balanced setups. Each configuration serves distinct purposes, providing engineers with options to amplify signals according to their project requirements.
 
