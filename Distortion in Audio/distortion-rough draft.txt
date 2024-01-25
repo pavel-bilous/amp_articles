@@ -82,18 +82,17 @@ Input bias currents
 
 Input bias current in op-amps refers to the small current that flows into the input terminals of the amplifier. It occurs due to mismatched transistor characteristics in the op-amp's input stage. This current is typically in the range of nanoamperes to microamperes. Input bias current can lead to offset voltages at the output and may affect the accuracy of the amplified signal in certain applications.
 
-In the non-inverted configuration, the input bias currents flowing into the non-inverting terminal can create an offset voltage across the input resistor network. This offset voltage is proportional to the input bias current and the input resistor values. It can lead to an undesired DC voltage at the output, affecting the accuracy of the amplified signal.
+In the non-inverted configuration, the input bias currents flowing into the non-inverting terminal can create an offset voltage across the input resistor network. This offset voltage is proportional to the input bias current and the input resistor values. It can lead to an undesired DC voltage at the output.
 
 In the inverted configuration, the input bias currents also flow into the inverting terminal. Similar to the non-inverted case, this can cause an offset voltage at the output. However, in the inverted configuration, the output is inverted relative to the input, and the impact of bias currents can be amplified.
 
-Using a differential configuration in op-amps can be beneficial in mitigating the effects of input bias currents compared to non-inverted and inverted configurations. Here's why:
+Using a differential configuration in op-amps can be beneficial in mitigating the effects of input bias currents compared to non-inverted and inverted configurations.
 
 Differential amplifiers respond to the difference between two input voltages while rejecting common-mode signals (signals present at both inputs). Input bias currents affect both inputs similarly, resulting in a common-mode component. However, since the differential amplifier amplifies only the difference, the common-mode component is effectively canceled out, reducing the impact of input bias currents.
 
 The symmetry in differential signals allow for any input bias current on one input to be mirrored on the other. This helps minimize input offset voltage.
 
 Since the differential amplifier amplifies the voltage difference, it allows for precise subtraction of two signals, even in the presence of input bias currents.
-
 
 Unlike differential configuration, non-inverted and inverted configurations amplify the entire input signal, including the common-mode component. Input bias currents can lead to offset voltages, affecting the accuracy of the amplified signal.
 
