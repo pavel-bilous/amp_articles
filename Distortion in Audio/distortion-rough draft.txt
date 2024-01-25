@@ -38,7 +38,7 @@ Ultimately, the goal is to achieve distortion levels that are sufficiently low t
 
 **Solutions** 
 
-We begin by reviewing Open Loop Gain and its role in aiding in reduction of distortion.
+Let's start by examining the Open Loop Gain and how it contributes to minimizing distortion.
 
 Open-loop gain refers to the gain of an amplifier or a feedback system when no feedback is applied. It represents the amplification factor of the system without any corrective measures.
 
