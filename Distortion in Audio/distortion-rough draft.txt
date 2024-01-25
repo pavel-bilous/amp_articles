@@ -54,7 +54,9 @@ The effectiveness of a given circuit in adjusting the output signal is directly 
 
 When the open-loop gain is low, negative feedback becomes less effective in stabilizing and linearizing the amplifier's response. Negative feedback relies on a high open-loop gain to reduce distortion and improve linearity. If the open-loop gain is low, the feedback may not be sufficient to counteract the inherent nonlinearities and variations in the amplifier's characteristics, leading to reduced effectiveness in correcting errors and maintaining stability. In such cases, the amplifier may exhibit higher distortion and poorer performance compared to a system with a higher open-loop gain where negative feedback can have a more pronounced corrective effect.
 
+**Practical implementation**
 
+We reviewd sound amplification from the subjective perspective and got familiar with few concepts that play crucial role in delivering properly defined user expiriance while listening to music. Now, we can review the market of electronic components and convertate on finding practical solutions.
 
 
 When it comes to sound quality, the choice between an Integrated Circuit (IC) amplifier and a discrete design can depend on various factors. 
