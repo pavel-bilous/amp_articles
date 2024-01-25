@@ -36,6 +36,8 @@ Transient Intermodulation Distortion (TIM) is a type of distortion that occurs i
 
 TIM is characterized by the creation of intermodulation products during the transient period. These intermodulation products are the result of the nonlinear behavior of the amplifier's components, which can introduce frequencies not present in the original signal. TIM is considered a more subtle and complex form of distortion compared to harmonic distortion.
 
+Ultimately, the goal is to achieve distortion levels that are sufficiently low to preserve the integrity of the original audio signal, providing a clean and accurate listening experience.
+
 **Solutions** 
 
 We begin by reviewing Open Loop Gain and its effects on distortion.
