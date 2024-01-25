@@ -42,7 +42,9 @@ We begin by reviewing Open Loop Gain and its effects on distortion.
 
 Open-loop gain refers to the gain of an amplifier or a feedback system when no feedback is applied. It represents the amplification factor of the system without any corrective measures.
 
-For example, open loop gain of the LM4562 at 1kHz is 95dB. The decibel (dB) scale is commonly used to express gains or losses in a logarithmic manner. In this case, a gain of 95 dB corresponds to a voltage gain of 3,162. 
+For example, open loop gain of the LM4562 at 1kHz is 95dB. The decibel (dB) scale is commonly used to express gains or losses in a logarithmic manner. In this case, a gain of 95 dB corresponds to a voltage gain of 56,234. 
+
+Open loop gain varies depending on the frequency. For the same LM4562 open loop gain is reduced to 75dB (5,623 V/V) at 10kHz and to 70dB (3,162 V/V) at 20kHz. Hovewer it is 125dB (1,778,279 V/V) at 20Hz.
 
 While open-loop gain itself doesn't directly reduce distortion, it sets the stage for the application of feedback, which is a key technique used to mitigate distortion in audio amplifiers.
 
