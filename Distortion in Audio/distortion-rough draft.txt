@@ -56,8 +56,7 @@ When the open-loop gain is low, negative feedback becomes less effective in stab
 
 **Practical implementation**
 
-We reviewd sound amplification from the subjective perspective and got familiar with few concepts that play crucial role in delivering properly defined user expiriance while listening to music. Now, we can review the market of electronic components and convertate on finding practical solutions.
-
+We reviewed sound amplification from a subjective perspective and became familiar with a few concepts that play a crucial role in delivering a properly defined user experience while listening to music. Now, we can delve into the market of electronic components and concentrate on finding practical solutions.
 
 When it comes to sound quality, the choice between an Integrated Circuit (IC) amplifier and a discrete design can depend on various factors. 
 
